@@ -11,16 +11,16 @@ class ShowStudent extends Component{
             DepartmentList:  [
                 {
                     ids:1,
-                    Reg: '11802778 ',
-                    name: 'shagun',
-                    phone: '7355751091',
+                    Reg: '1180000 ',
+                    name: 'ram',
+                    phone: '9999999999',
                     branch: 'cse'
                 },
                 {
                     ids:2,
-                    Reg: '11804939',
-                    name: 'happy',
-                    phone: '7988208960',
+                    Reg: '11804548',
+                    name: 'Rohan',
+                    phone: '777777777',
                     branch: 'cse'
                 }
             ]
