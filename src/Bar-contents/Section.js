@@ -36,7 +36,7 @@ class Section extends Component{
                 <Navigation/>
                 <hr style={line}/>
                 <div className="heading" style={textStyle}>
-                    <h1>Add New Department Section</h1>
+                    <h1>Add New Section</h1>
                 </div>
                 <div style ={li_div} className="themain">
                 <div className="grid-container heading-container">
