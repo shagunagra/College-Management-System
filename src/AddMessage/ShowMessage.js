@@ -15,7 +15,7 @@ class ShowMessage extends Component{
                 },
                 {
                     ids:2,
-                    message: 'I am Shagun'
+                    message: 'I am Sohan'
                 }
             ]
         }
