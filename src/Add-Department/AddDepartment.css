@@ -1,0 +1,45 @@
+.back_btn{
+    padding: 10px;
+    border: none;
+    text-transform: uppercase;
+    width: 80px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    outline: none;
+    margin-left: 1%;
+    margin-top: 350%;
+    margin-bottom: 20px;
+}
+.main{
+    display: flex;
+    align-items: center;
+   justify-content: center
+}
+.label-control{
+    font-weight: bold;
+    color: #808080;
+    font-size: larger;
+    margin-bottom: 4%;
+    margin-top: 6%;
+}
+.input-control{
+    height: 35px;
+    width: 150%;
+    border: 0;
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+.add{
+    background: #7ab97a;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    margin-right: 10px;
+    text-transform: uppercase;
+    width: 80px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    outline: none;
+    margin-left: 4%;
+    margin-top: 20%;
+}

@@ -1,0 +1,70 @@
+.images{
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    min-width: 100%;
+    min-height: 100%;
+}
+.heading{
+    margin-top: 5%;
+    margin-left: 36%;
+    color: blueviolet;
+}
+.custom-btn {
+    padding: 10px;
+    border: none;
+    margin-right: 10px;
+    text-transform: uppercase;
+    width: 80px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    outline: none;
+    margin-left: 25%;
+    margin-top: 20%;
+}
+
+.add-btn {
+    background: #7ab97a;
+    color: #fff;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: 20% 70% 30% 20% auto;
+    margin-bottom: 10px;
+}
+
+.heading-container {
+    margin: 30px 0 30px 0;
+    width: 100%;
+}
+
+.grid-item {
+    margin-left: 5%;
+    font-size: 1.15rem;
+    word-wrap: break-word;
+    padding-right: 10px;
+}
+
+.name-heading, .phone-heading {
+    margin-left: 5%;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #808080;
+    text-transform: uppercase;
+}
+.delete-btn {
+    background: #fa9c9c;
+    color: #000;
+    padding: 10px;
+    border: none;
+    text-transform: uppercase;
+    width: 80px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    outline: none;
+    margin-left: 400%;
+} 
+.themain{
+    margin-top: 9%;
+}
