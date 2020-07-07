@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/College-Management-System/static/css/main.59b0c29b.chunk.css",
+    "main.js": "/College-Management-System/static/js/main.35aa3a3a.chunk.js",
+    "main.js.map": "/College-Management-System/static/js/main.35aa3a3a.chunk.js.map",
+    "runtime-main.js": "/College-Management-System/static/js/runtime-main.543bb321.js",
+    "runtime-main.js.map": "/College-Management-System/static/js/runtime-main.543bb321.js.map",
+    "static/js/2.c1ef9141.chunk.js": "/College-Management-System/static/js/2.c1ef9141.chunk.js",
+    "static/js/2.c1ef9141.chunk.js.map": "/College-Management-System/static/js/2.c1ef9141.chunk.js.map",
+    "index.html": "/College-Management-System/index.html",
+    "precache-manifest.a7c6c6b2ec38ba5734bdab793b874987.js": "/College-Management-System/precache-manifest.a7c6c6b2ec38ba5734bdab793b874987.js",
+    "service-worker.js": "/College-Management-System/service-worker.js",
+    "static/css/main.59b0c29b.chunk.css.map": "/College-Management-System/static/css/main.59b0c29b.chunk.css.map",
+    "static/js/2.c1ef9141.chunk.js.LICENSE.txt": "/College-Management-System/static/js/2.c1ef9141.chunk.js.LICENSE.txt",
+    "static/media/50-Beautiful-and-Minimalist-Presentation-Backgrounds-042.jpg": "/College-Management-System/static/media/50-Beautiful-and-Minimalist-Presentation-Backgrounds-042.3fe77d82.jpg",
+    "static/media/project-proposal-76f0a3e70715ab89442aa753fee01c842643fd3567e49c6083e0664f5b74bbf3.png": "/College-Management-System/static/media/project-proposal-76f0a3e70715ab89442aa753fee01c842643fd3567e49c6083e0664f5b74bbf3.ae5f1961.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.543bb321.js",
+    "static/js/2.c1ef9141.chunk.js",
+    "static/css/main.59b0c29b.chunk.css",
+    "static/js/main.35aa3a3a.chunk.js"
+  ]
+}
